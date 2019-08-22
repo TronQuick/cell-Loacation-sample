@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">cellLocationDemo</string>
+    <string name="button1">获取基站信息</string>
+</resources>
